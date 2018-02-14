@@ -23,10 +23,10 @@ sudo raspi-config nonint get_boot_cli
 
 }
 
-#function internalional_options{
+#function international_options {
 #change locale
 #change time
-#change wifi country - 
+#change wifi country - raspi-config nonint do_wifi_country %s
 
 reboot
 
@@ -57,6 +57,7 @@ reboot
 #                allow from all
 #        </Directory>
 
+#Set Hostname: raspi-config nonint do_hostname %s
 
 function solar_main {
   raspbian_update_packages
