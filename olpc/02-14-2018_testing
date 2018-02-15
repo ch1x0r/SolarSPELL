@@ -1,0 +1,10 @@
+1. chkconfig sshd on
+2. sudo service sshd start
+3. starting sshd:
+4. sudo passwd - change root
+5. sudo passwd olpc 
+
+solar
+
+scp list of the installed software packages on olpc using previously list - outlist
+rpm -qa
