@@ -1,0 +1,14 @@
+df -h
+
+mtd0 1.0G Used 495MB Available 505M
+tmpfs 35M
+
+redhat-release = OLPC 9
+issue = OLPC build 802 stream 8.2.1 variant devel_jffs2
+Kernel \r on an \m
+olpc-release = 8.2
+
+Tough to determine which mplayer will work with current dependencies when I 
+have no idea which version of RH.
+
+I do have the kernel version which does help.

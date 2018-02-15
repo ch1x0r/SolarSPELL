@@ -1,0 +1,27 @@
+
+1. transfer mp4 to olpc Library
+2. totem mp4
+Error
+
+OIL: Error liboiltest.c 361:oil_test_check_impl(): illegal instructions in mmxCombineAddU
+totem:1849: Warning: failed to create dbus proxy for org.nome.SettingsDaemon:Could not get owner of name
+'org.gnome.SettingsDaemon': no such name
+Message: don't know how to handle audio/x-m4a
+Message: Error: You do not have a decoder installed to handle this file. You might need to install the necessary plugins
+gstplaybasebin.c(2211): prepare_output(): /play
+
+Message: Missing plugin: gstreamer|0.10|totem|MPEG-4 AAC demuxer|decoder-audio/x-m4a (MPEG-4 AAC demuxer)
+Automatic missing codec installation not supported *helper script misssing
+
+yum list installed '*264*'
+Error: No matching Packages to list
+
+yum list installed '*gstreamer*'
+Installed Packages
+gstreamer.i386
+--plugins-base.i386
+--plugins-flumpegdemux.i386
+--plugins-good
+--python
+--tools
+totem-gstreamer
