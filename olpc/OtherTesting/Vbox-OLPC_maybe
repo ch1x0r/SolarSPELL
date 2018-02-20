@@ -1,1 +1,13 @@
 http://wiki.sugarlabs.org/go/VirtualBox
+
+VBox taking too long.
+Recevied specs and outlist from Brittany.
+Version 1 I have - was concerned no gstreamer-ffmpeg option because arm.
+However, version 1 is i386
+Therefore, the package may be - available
+https://rpmfind.net/linux/rpm2html/search.php?query=gstreamer-ffmpeg
+
+Another option may be 
+
+Simply ffmpeg install...directly
+Mplayer
