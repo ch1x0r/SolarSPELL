@@ -1,0 +1,27 @@
+05-07-2018
+The sd card that was already written for pi worked but the new samsung sd card (not formatted) would not work.
+
+The original image for 13.2.0 OLPC Sugar was tough to come by.
+
+Examination of the packages leads me to believe that:
+
+1. Totem with Gstreamer works with FFMPEG.
+
+Images will be uploaded too - screen captures relevant.
+H264 was working.
+
+From the installed software file, it looks like VLC, Gstreamer, FFMPEg and Totem are installed.
+
+Nice to Have -  a list of packages in a clean install and to know video did not work in the clean install.
+
+
+http://wiki.sugarlabs.org/go/Sugar_Creation_Kit/sck/References#How_to_make_your_own_custom_Sugar-Creation_Kit.iso_file
+
+Custom Sugar ISO from your olpc image
+
+
+Goal: Find out what software was existing.
+Not easy without a clean install..
+
+Obviously, the software installed is totem and gstreamer.
+See images.
