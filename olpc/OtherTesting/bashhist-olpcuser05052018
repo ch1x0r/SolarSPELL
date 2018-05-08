@@ -1,0 +1,47 @@
+dpkg -i
+apt-get update
+sudo -su
+sudo -
+uname
+uname -r
+olpc-update
+sudo olpc-update 
+df -h
+olpc-update --latest
+olpc-update --latest joyride
+sudo olpc-update --latest joyride
+cat /boot/olpc_build
+cat /etc/issue
+exit
+sudo yum localinstall -y sudo yum install -y mplayer
+yum install rpmfusion-free-release rpmfusion-nonfree-release
+su
+cat /boot/olpc-build
+cat /etc/issue
+cat /etc/olpc-release
+sudo reboot
+sudo olpc-update 13.2.9_xo1.75-21
+sudo poweroff
+cat /etc/issue
+rpm -qa
+sudo service powerd stop
+olpc-pwr-log
+sudo su
+sudo su
+sudo su
+ls
+cd Desktop
+ls
+sudo su
+sudo su
+lsb_release
+cat /etc/redhat-release
+df-h
+df -h
+mc
+ls
+cd ..
+l
+ls
+cd root/
+su

@@ -1,0 +1,11 @@
+NAME         MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
+mmcblk0      179:32   0 14.5G  1 disk 
+├─mmcblk0p1  179:33   0 41.5M  1 part /run/media/olpc/boot
+└─mmcblk0p2  179:34   0 14.5G  1 part /run/media/olpc/rootfs
+mmcblk1      179:8    0  3.7G  0 disk 
+├─mmcblk1p1  179:9    0   64M  0 part /bootpart
+└─mmcblk1p2  179:10   0  3.6G  0 part /versions
+mmcblk1boot1 179:24   0    1M  1 disk 
+mmcblk1boot0 179:16   0    1M  1 disk 
+sda            8:0    1 14.6G  0 disk 
+└─sda1         8:1    1 14.6G  0 part /run/media/olpc/05AB-52FA

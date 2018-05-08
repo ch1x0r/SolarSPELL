@@ -1,0 +1,14 @@
+Filesystem            Size  Used Avail Use% Mounted on
+devtmpfs              180M     0  180M   0% /dev
+/dev/disk/mmc/mmc2p1   62M   14M   46M  23% /bootpart
+/dev/disk/mmc/mmc2p2  3.6G  3.0G  569M  85% /
+tmpfs                  50M     0   50M   0% /dev/shm
+tmpfs                 247M  1.3M  246M   1% /run
+tmpfs                 247M     0  247M   0% /sys/fs/cgroup
+/tmp                   50M   64K   50M   1% /tmp
+varlog                 20M  268K   20M   2% /var/log
+vartmp                 50M  8.0K   50M   1% /var/tmp
+none                  1.0M  4.0K 1020K   1% /var/lib/stateless/writable
+/dev/mmcblk0p1         41M   21M   21M  51% /run/media/olpc/boot
+/dev/mmcblk0p2         15G  8.3G  5.4G  61% /run/media/olpc/rootfs
+/dev/sda1              15G  152K   15G   1% /run/media/olpc/05AB-52FA
